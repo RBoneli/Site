@@ -1,0 +1,6 @@
+package br.com.boneli.classes;
+
+public class StoreMatrix {
+  private String name;
+
+}
